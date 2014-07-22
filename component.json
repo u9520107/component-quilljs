@@ -1,5 +1,6 @@
 {	
 	"name": "component-quilljs",
 	"main": "quilljs/quill.js",
-	"scripts": ["quilljs/quill.js"]
+	"scripts": ["quilljs/quill.js"],
+	"styles": ["quilljs/quill.snow.css"]
 }
