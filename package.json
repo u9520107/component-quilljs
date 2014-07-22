@@ -1,0 +1,23 @@
+{
+  "name": "component-quilljs",
+  "version": "0.0.1",
+  "description": "packages quilljs for component",
+  "main": "''",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u9520107/component-quilljs"
+  },
+  "author": "Jack Tzu-Chieh Huang <u9520107@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u9520107/component-quilljs/issues"
+  },
+  "homepage": "https://github.com/u9520107/component-quilljs",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "superagent": "^0.18.2"
+  }
+}
