@@ -39,7 +39,7 @@ gulp.task('copy-css', function (cb) {
 						console.log(err);
 					}
 				});
-	var writer = fs.createWriteStream(path.resolve('quilljs', 'quill.snow.js'));
+	var writer = fs.createWriteStream(path.resolve('quilljs', 'quill.snow.css'));
 	agent.pipe(writer);
 	writer.on('error', function(err) {
 		console.log(err);
